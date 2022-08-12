@@ -2,7 +2,8 @@
 
 
 
-![my-cover-pic](https://user-images.githubusercontent.com/33763323/184340135-18cc6bae-ecad-407c-9a68-b555049e9fa9.png)
+
+![General-pic](https://user-images.githubusercontent.com/33763323/184344269-b97bd4ce-ca18-42da-9921-8adbfd5bb3a4.jpg)
 
 
 
