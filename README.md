@@ -5,13 +5,13 @@
 
 ![General-pic](https://user-images.githubusercontent.com/33763323/184344269-b97bd4ce-ca18-42da-9921-8adbfd5bb3a4.jpg)
 
-I'm data analytics enthusiast and System Engineer by profession at Tata Consultancy Services.I enjoy exploring data to get insights and create an impactful story out of it.
+I’m a DevOps Engineer with a passion for creating seamless workflows and building robust, scalable infrastructure. Whether it’s automating complex pipelines, optimizing cloud environments, or ensuring rock-solid system reliability, I’m all about turning challenges into efficient, scalable solutions.
 
 
 
 
 
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate with other data nerds
-- 🥅 2022 Goals: Contribute more to open source projects
-- ⚡ Fun fact: Apart from digging the data; I love hiking and exploring places
+- 💞️ I’m looking to collaborate with other cloud 
+- 🥅 2025 Goals: Automate everything
+- ⚡ Fun fact: Apart from automation; I love hiking and exploring places
